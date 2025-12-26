@@ -19,6 +19,6 @@ A machine learning study on predicting election outcomes in Portugal using the 2
 <img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/623146b2-0698-493b-b8ad-67bcc430387c" />
 <img width="938" height="790" alt="image" src="https://github.com/user-attachments/assets/6f2a6fa6-da32-45f5-8eb0-28cb8109a042" />
 
-
+Note: For the clustering(UnSupervised) modeling of this dataset, check out my other repository:https://github.com/negart2020/Portugal-Election-Clustering-Discovery
 
 
