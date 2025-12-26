@@ -2,7 +2,7 @@
 A machine learning study on predicting election outcomes in Portugal using the 2019 real-time dataset. This project implements a full classification pipeline to handle high-dimensional, imbalanced social-political data.
 
 ### 📅 Project Details
-- **Developed**: Summer 2024 (Mordad 1403)
+- **Developed**: Summer 2025 (Mordad 1404)
 - **Status**: Completed Final Project
 - **Key Technique**: Used **SMOTE** to handle class imbalance in political party seats.
 
