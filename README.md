@@ -13,11 +13,11 @@ A machine learning study on predicting election outcomes in Portugal using the 2
 
 ### 🖼 Model Performance
 <img width="515" height="455" alt="image" src="https://github.com/user-attachments/assets/684e49d8-7e9f-4931-8101-82a9b0d19cd8" />
-<img width="515" height="455" alt="image" src="https://github.com/user-attachments/assets/06adc72e-e8b2-420e-8482-9e5e5baddeed" />
-<img width="515" height="455" alt="image" src="https://github.com/user-attachments/assets/9b50b198-933b-423e-a39a-537b51b37126" />
-<img width="515" height="455" alt="image" src="https://github.com/user-attachments/assets/cb0ebb1e-28f6-4a74-88da-514fbaf934ad" />
-<img width="515" height="455" alt="image" src="https://github.com/user-attachments/assets/657e2cdc-fbb9-464b-a367-262a8c4173de" />
-<img width="515" height="455" alt="image" src="https://github.com/user-attachments/assets/7812d200-1f44-4e3b-aca4-6fde66aed84e" />
+<img width="536" height="547" alt="image" src="https://github.com/user-attachments/assets/dd7d584a-720a-4238-9935-34c81e362591" />
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/8b4f0e14-9ada-43f6-b981-a2dcb7d592d2" />
+<img width="954" height="651" alt="image" src="https://github.com/user-attachments/assets/deb9c7dc-76d9-4349-9170-f2bb6eb3ff36" />
+<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/623146b2-0698-493b-b8ad-67bcc430387c" />
+<img width="938" height="790" alt="image" src="https://github.com/user-attachments/assets/6f2a6fa6-da32-45f5-8eb0-28cb8109a042" />
 
 
 
